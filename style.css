@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: blueviolet;
+}
+
+h1 {
+    font-size: 25;
+    color: aliceblue;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-size: 25;
+    color: aliceblue;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+img {
+    border: 10px solid lightgrey;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+}
+
+p {
+    font-size: 20;
+    color: aliceblue;
+    font-family: sans-serif;
+    text-align: center;
+}
